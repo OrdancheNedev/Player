@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>WP Exam</title>
+    <style>
+        li{
+            margin-bottom: 10px;
+        }
+        .container{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto;
+            text-align: center;
+            margin-top: 30px;
+        }
+        #nav {
+            list-style-type: none;
+            display: flex;
+            gap: 10px;
+            padding: 0;
+            justify-content: center;
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="container">
+    <form method="post" th:action="@{${player!=null}? '/players/'+${player.id}:'/players' }">
+        <div>
+            <label for="name">Name</label>
+            <input type="text"
+                   id="name"
+                   name="name"
+                   th:value="${player?.name}"
+                   required>
+        </div>
+        <br>
+        <div>
+            <label for="bio">Biography</label>
+            <input type="text"
+                   id="bio"
+                   name="bio"
+                   th:value="${player?.bio}"
+                   required>
+        </div>
+        <br>
+        <div>
+            <label for="pointsPerGame">Points Per Game</label>
+            <input type="text"
+                   id="pointsPerGame"
+                   name="pointsPerGame"
+                   th:value="${player?.pointsPerGame}"
+                   required>
+        </div>
+        <br>
+        <div>
+            <label>Player Position</label><br/>
+            <select id="position" name="position" multiple="multiple" size="5">
+
+                <option value="[position]"
+                        th:each="position :${positions}" th:value="${position}"
+                        th:text="${position.toString()}" th:selected="${player?.position?.equals(position)}"
+                > [position.name]</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label>Team</label><br/>
+            <select id="team" name="team" multiple="multiple" size="5">
+
+                <option value="[team.id]"
+                        th:each="tea :${teams}" th:value="${tea.id}"
+                        th:text="${tea.name}" th:selected="${player?.team?.id?.equals(tea.id)}"
+
+                > [team.name]</option>
+            </select>
+        </div>
+        <br>
+
+        <button id="submit" type="submit" class="btn btn-success">Submit</button>
+        <a id="back" href="/players" type="button" class="btn btn-primary">Back to players</a>
+    </form>
+</div>
+<br>
+<div class="container">
+    <ul id="nav">
+        <li><a href="/" class="btn btn-success">Home</a></li>
+        <li><a href="/login" class="btn btn-success">Login</a></li>
+        <li><a href="/logout" class="btn btn-success">Logout</a></li>
+    </ul>
+</div>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>
