@@ -1,7 +1,7 @@
 
 # Description 
 
-Description:
+
 Originally solved by a [fellow student](https://github.com/Fazlibeqir/Web-Programming/tree/main/Vezbi/NewVersion/kol2023-g1%20Player), as an exam solution, I transformed this project into an independent, full-stack web application. The app allows users to vote for their favorite players, while administrators have the ability to add, delete, and edit player information.
 
 My Contributions:
