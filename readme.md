@@ -1,17 +1,19 @@
 
 # Description 
 
-Initially solved by a [fellow student](https://github.com/Fazlibeqir/Web-Programming/tree/main/Vezbi/NewVersion/kol2023-g1%20Player), this project was transformed into an independent, full-stack web application through my enhancements. The app allows users to vote for their favorite players, while administrators can add, delete, and edit player information.
+Description:
+Originally solved by a [fellow student](https://github.com/Fazlibeqir/Web-Programming/tree/main/Vezbi/NewVersion/kol2023-g1%20Player), as an exam solution, I transformed this project into an independent, full-stack web application. The app allows users to vote for their favorite players, while administrators have the ability to add, delete, and edit player information.
 
 My Contributions:
 
-Front-End: Completely rebuilt the user interface using Bootstrap to improve usability and create a responsive, modern design.
+Front-End: Completely redesigned the user interface using Bootstrap to enhance usability and create a modern, responsive design.
 
-Back-End: Adapted the application to integrate with a MySQL database for reliable data management and optimized performance.
+Back-End: Adapted the application to integrate with a MySQL database, ensuring reliable data management and optimized performance.
 
-Technologies Used: Bootstrap, SQL (MySQL), and Spring.
+Technologies Used: Bootstrap, SQL (MySQL), Spring.
 
-This project demonstrates my ability to collaborate, improve existing solutions, and implement full-stack development techniques effectively.
+This project highlights my ability to take an existing solution, improve it, and expand it into a fully functional web application. It also demonstrates my skills in full-stack development, from UI design to back-end integration.
+
 
 
 ## Main page
