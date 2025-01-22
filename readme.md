@@ -16,3 +16,10 @@
 ## Filter by points
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/image5.png)
+
+## Database at the beginning
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/image6.png)
+
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/image7.png)
