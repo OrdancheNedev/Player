@@ -13,3 +13,6 @@
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/image4.png)
 
+## Filter by points
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/image5.png)
