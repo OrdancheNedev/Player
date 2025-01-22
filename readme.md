@@ -37,3 +37,15 @@
 
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/image10.png)
+
+## Admin dashboard
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/admin.png)
+
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/admin2.png)
+
+
+
+
+
