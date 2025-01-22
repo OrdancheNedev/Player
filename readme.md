@@ -30,3 +30,10 @@
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/image8.png)
 
 
+## User dashboard
+
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/image9.png)
+
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/image10.png)
