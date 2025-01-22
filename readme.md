@@ -1,14 +1,17 @@
 
 # Description 
 
-This is an example of a college exam. The goal is to make a web app that lets users vote for their favourite player.
+Initially solved by [Person's Name or Role, e.g., a fellow student, instructor, etc.], this project was transformed into an independent, full-stack web application through my enhancements. The app allows users to vote for their favorite players, while administrators can add, delete, and edit player information.
 
-The admin has the options to add, delete and edit info about players.
+My Contributions:
 
-I transformed this app into a independent project of a college student. What i actually did is i rebuild the front-end to be user-friendly and adapted the back-end of the web app so it can connect to MySQL database, where i created a database.
+Front-End: Completely rebuilt the user interface using Bootstrap to improve usability and create a responsive, modern design.
 
-The technologies used in this web app are: Bootstrap, SQL(MySQL) and Spring.
+Back-End: Adapted the application to integrate with a MySQL database for reliable data management and optimized performance.
 
+Technologies Used: Bootstrap, SQL (MySQL), and Spring.
+
+This project demonstrates my ability to collaborate, improve existing solutions, and implement full-stack development techniques effectively.
 
 
 ## Main page
