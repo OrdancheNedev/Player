@@ -61,4 +61,8 @@
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/insert_new_player2.png)
 
 
+## Changes in database
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/db_changes.png)
+
 
