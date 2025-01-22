@@ -53,3 +53,12 @@
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/edit.png)
 
+## Inserting new players
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/insert_new_player.png)
+
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/insert_new_player2.png)
+
+
+
