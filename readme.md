@@ -1,7 +1,7 @@
 
 # Description 
 
-Initially solved by [Person's Name or Role, e.g., a fellow student, instructor, etc.], this project was transformed into an independent, full-stack web application through my enhancements. The app allows users to vote for their favorite players, while administrators can add, delete, and edit player information.
+Initially solved by a [fellow student](https://github.com/Fazlibeqir/Web-Programming/tree/main/Vezbi/NewVersion/kol2023-g1%20Player), this project was transformed into an independent, full-stack web application through my enhancements. The app allows users to vote for their favorite players, while administrators can add, delete, and edit player information.
 
 My Contributions:
 
