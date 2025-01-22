@@ -45,7 +45,11 @@
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/admin2.png)
 
+## Add Form
 
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/add.png)
 
+## Edit Form
 
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/edit.png)
 
