@@ -1,4 +1,16 @@
 
+# Description 
+
+This is an example of a college exam. The goal is to make a web app that lets users vote for their favourite player.
+
+The admin has the options to add, delete and edit info about players.
+
+I transformed this app into a independent project of a college student. What i actually did is i rebuild the front-end to be user-friendly and adapted the back-end of the web app so it can connect to MySQL database, where i created a database.
+
+The technologies used in this web app are: Bootstrap, SQL(MySQL) and Spring.
+
+
+
 ## Main page
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Player/master/image1.png)
